@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: inventory-system-web-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jarves
+Implementation-Vendor-Id: com.gensoft
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/inventory-system-web-api
+Created-By: Maven Integration for Eclipse
+
